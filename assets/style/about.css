@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 30%;
+    padding-right: 10%;
+    background-image: linear-gradient(rgba(75, 71, 90, 0.3), rgba(70, 70, 88, 0.3));
+}
+
